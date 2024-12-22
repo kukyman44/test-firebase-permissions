@@ -431,7 +431,7 @@ import { CommonModule } from '@angular/common';
         <!--  WELCOME  -->
         <div id="welcome">
           <h1>
-            <span> Hello Domino project, </span>
+            <span> Hello Domino update project, </span>
             Welcome test-hosting-permissions 👋
           </h1>
         </div>
